@@ -2,7 +2,6 @@
 
 Welcome to the **Expense Tracker App** – your personal assistant for tracking income and expenses in a simple and efficient way. 📊 Whether you're managing your daily budget or keeping track of monthly expenses, this app has got you covered!
 
-![Expense Tracker](https://via.placeholder.com/800x400.png?text=Expense+Tracker+App)
 
 ---
 
